@@ -100,6 +100,23 @@ nav .botones-nav{
     border-radius: 50%;
 }
 
+#camisetas {
+    background-color: #ECEFF1;
+}
+
+#camisetas .carta-camiseta {
+    background-color: gray;
+    box-shadow: 15px 5px 10px grey;
+}
+
+#pantalones {
+    background-color: #ECEFF1;
+}
+
+#pantalones .carta-pantalon {
+    background-color: gray;
+    box-shadow: 15px 5px 10px grey;
+}
 
 #contacto {
     background-color: #ECEFF1;
